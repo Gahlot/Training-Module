@@ -1,1 +1,1 @@
-# Go To [iOS Training](https://github.com/Gahlot/Training-Module.wiki.git)
+# Go To [iOS Training](Training-Module.wiki.git)
